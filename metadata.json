@@ -1,0 +1,8 @@
+{
+  "name": "Remix next js projek ",
+  "description": "Platform AI Tools Terlengkap untuk Generator Video Prompt, Ide Konten TikTok FYP, Photo Prompt Sinematik, Multi-Agent Intelligence, dan Manajemen Akses QRIS dengan arsitektur Next.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
